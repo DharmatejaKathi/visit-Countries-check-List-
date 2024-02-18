@@ -1,0 +1,27 @@
+.container {
+  background-color: black;
+  background-size: cover;
+  padding: 16px;
+}
+.ul {
+  height: 350px;
+  overflow-y: scroll;
+  width: 100%;
+  padding: 0px;
+}
+.head {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+.item-ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.no {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: 'Roboto';
+}

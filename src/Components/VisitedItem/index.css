@@ -1,0 +1,28 @@
+.added-list {
+  list-style-type: none;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+.thumbnail-img {
+  width: 300px;
+}
+
+.bottom-section {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  align-items: center;
+  font-family: 'roboto';
+}
+.delete-button {
+  width: 70px;
+  height: 30px;
+  color: white;
+  font-family: 'Roboto';
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 9px;
+  outline: none;
+  font-size: 12px;
+  cursor: pointer;
+}
